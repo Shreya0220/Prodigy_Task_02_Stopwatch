@@ -1,0 +1,1 @@
+# Stopwatch Web Application`r`n`r`n## Prodigy InfoTech Internship - Task 02`r`n`r`nA responsive stopwatch web application built using HTML, CSS and JavaScript.`r`n`r`n## Features`r`n- Start`r`n- Pause`r`n- Resume`r`n- Lap`r`n- Reset`r`n- Responsive Design`r`n`r`n## Technologies Used`r`n- HTML5`r`n- CSS3`r`n- JavaScript`r`n`r`n## Author`r`nShreya Prajapati
